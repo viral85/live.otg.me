@@ -1,0 +1,9 @@
+[submodule "sites/site1-live.otg.me"]
+	path = sites/site1-live.otg.me
+	url = https://github.com/viral85/site1-live.otg.me.git
+[submodule "sites/site2-live.otg.me"]
+	path = sites/site2-live.otg.me
+	url = https://github.com/viral85/site2-live.otg.me.git
+[submodule "sites/site3-live.otg.me"]
+	path = sites/site3-live.otg.me
+	url = https://github.com/viral85/site3-live.otg.me.git
