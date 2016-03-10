@@ -7,3 +7,6 @@
 [submodule "sites/site3-live.otg.me"]
 	path = sites/site3-live.otg.me
 	url = https://github.com/viral85/site3-live.otg.me.git
+[submodule "sites/site4-live.otg.me"]
+	path = sites/site4-live.otg.me
+	url = https://github.com/viral85/site4-live.otg.me.git
