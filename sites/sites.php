@@ -63,3 +63,4 @@ $sites['site3-live.otg.me'] = 'site3-live.otg.me';
 
 $sites['site4-live.otg.me'] = 'site4-live.otg.me';
 ['site5-live.otg.me'] = 'site5-live.otg.me';
+['site7-live.otg.me'] = 'site7-live.otg.me';
